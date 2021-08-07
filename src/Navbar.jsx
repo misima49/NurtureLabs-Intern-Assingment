@@ -13,6 +13,11 @@ function Navbar() {
             <a href="#"><i className="material-icons">payment</i>Manage sources</a>
             <a href="#"><i className="material-icons">payment</i>Integration</a>
             <a href="#"><i className="material-icons">payment</i>Alerts</a>
+
+            <div className="settings">
+              <a href="#"><i className="material-icons">group</i>Settings<i className="material-icons downArrow">arrow_drop_down</i></a>
+              <a href="#">Billings</a>
+            </div>
           
         </div>
     );

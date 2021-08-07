@@ -9,11 +9,22 @@
 	padding-top: 5rem;
 }
 
+.sectionTitle {
+	display: flex;
+	justify-content: space-between;
+}
 
 h2 {
 	font-size: 1.2rem;
 	text-align: left;
 }
+
+.container p {
+	margin-right: 3.7rem;
+	font-weight: bold;
+}
+
+
 
 h2 span {
 	background-color: #3f0e40;
