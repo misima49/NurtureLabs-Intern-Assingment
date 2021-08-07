@@ -5,7 +5,7 @@ function Navbar() {
         <div className="sidenav">
           <div className="company-logo">
             <img src="images/company-logo.png" alt="TermMonitor logo" />
-            <h1>Team<span>Monitor</span></h1>
+            <h1>Term<span>Monitor</span></h1>
           </div>
 
             <a href="#" id="current-tab"><i className="material-icons">home</i>Add keywords</a>
