@@ -1,5 +1,5 @@
 This a website created as an assingment for NurtureLab.
-Netlify Deployement Link: https://silly-cray-d13bcf.netlify.app/
+Netlify Deployement Link: https://term-monitor-mirinaru.netlify.app/
 
 To get in touch: malavmrinal@gmail.com
 
